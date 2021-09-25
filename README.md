@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joginder
-- 👀 I’m interested in 
+- 👀 I’m interested in doing #MERN Project
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me jogigautam1706@gmail.com

@@ -8,7 +8,7 @@
 
 
 
-##### Hi, I'm a CSE 4<sup>th</sup> year student pursuing Bachelor of Technology from Centeral University of Haryana ,Mahendergarh ( India ).
+##### Hi, I'm a Software Engineer.
 
 #### I love to explore more in Every Tech with different view and Enjoy this Learning time. This Positive Learning passion builds My Strength which helps to survive me in most hardest of Times and also helps to continue my Learning !   
 
